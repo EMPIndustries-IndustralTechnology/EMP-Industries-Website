@@ -1,0 +1,36 @@
+* { margin: 20px; padding: 0px; border: 0px; }
+
+body   { background-color: black;
+         background-repeat: repeat;
+}
+
+
+#everything { width: 900px; margin: 20px auto;
+background-color: white; }
+
+
+#top { }
+
+#logo { float:left; }
+	 
+#piewebsite { float:right;
+              object-position: right top; }
+
+#navbar              { clear: both; 
+	                   margin-left: 5px;  }
+ul        { padding: 10px 0px; margin: 0px;
+            border-top: 1px #010101 double;
+          }
+ul li     { display: inline;
+	        list-style: none;
+          }
+
+
+               
+a:link { color: black} 
+a:visted { color: darkgray}
+a:hover { color: blueviolet}
+a:active { color: deeppink}
+
+
+      
